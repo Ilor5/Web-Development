@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/Deti/GitHub/Web%20Development/CSS/%D0%A5%D1%8C%D1%8E%D1%81%D1%82%D0%BE%D0%BD/Houston.html",
+            "url": "file:///C:/Users/User/GitHub/Web%20Devevopment/CSS/%D0%A5%D1%8C%D1%8E%D1%81%D1%82%D0%BE%D0%BD/Houston.html",
             "webRoot": "${workspaceFolder}"
         }
     ]

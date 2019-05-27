@@ -24,3 +24,10 @@ thead {
 th, td {
     border: 1px solid;
 }
+.houston {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+table + span {
+    font-style: italic;
+}
