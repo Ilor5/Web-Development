@@ -94,53 +94,8 @@
     width: 1219;
     height: 403px;
 }
-
- .video {
-    position:fixed;
-    width: 1219px;
-    z-index:-1;
+.video{
+    
+    min-width:100%;
     min-height:100%;
-    overflow:hidden;
  }
-  
- h1 {
-    width: 1219px;
-    height: 83px;
-    
-    padding-top: 160px;
-
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 72px;
-    line-height: 84px;
-    text-align: center;
-    
-    color: #FFFFFF;
- }
-.problem {
-    background: #EEEEEE;
-}
-h2 {
-    padding: 48px 57px 16px 55px; 
-
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 64px;
-    line-height: 75px;
-    text-align: center;
-    
-    color: #007765;
-}
-.problem > p {
-    padding: 0px 54px 92px 55px; 
-
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    line-height: 37px;
-
-    color: #000000;
-}
