@@ -1,0 +1,101 @@
+.body {
+    width: 1219px;
+    padding: 0 55px;
+    margin: auto;
+}
+.head {
+    position: fixed;
+    top: 0px;
+    
+    width: 1219px;
+    
+    background: #007765;
+}
+.logo {
+    top: 20px;
+    left: 55px;
+    width: 184px;
+    height: 45.04px;
+    margin-left: 55.04px;
+    margin-top: 20px;
+    margin-bottom: 18.96px;
+    float: left;
+
+}
+.linkProblem {
+    display: block;
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 24px;
+    
+    margin-left: 502px;
+    margin-top: 28px;
+    float: left;
+
+    line-height: 28px;
+    color: #FFFFFF;
+}
+.linkCoin {
+    display: block;
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 24px;
+
+    margin-left: 8px;
+    margin-top: 29px;
+    float: left;
+
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.linkTeam {
+    display: block;
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+
+    margin-left: 8px;
+    margin-top: 29px;
+    float: left;
+
+    text-align: center;
+    color: #FFFFFF;
+}
+.stick {
+    display: block;
+
+    float: left;
+    margin-top: 28px;
+    margin-left: 8px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.intro {
+    margin-top: 84px;
+    width: 1219;
+    height: 403px;
+}
+.video{
+    
+    min-width:100%;
+    min-height:100%;
+ }
