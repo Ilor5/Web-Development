@@ -1,3 +1,6 @@
+body {
+    margin: 0px;
+}
 .body {
     width: 1219px;
     padding: 0 55px;
@@ -90,7 +93,7 @@
     color: #FFFFFF;
 }
 .intro {
-    margin-top: 84px;
+    margin-top: 0px;
     margin-bottom: 0px;
     background: url(logo_background.png);
     background-size: cover; 
@@ -98,8 +101,8 @@
 h1 {
     margin-bottom: 0px;
     margin-top: 0px;
-    padding-top: 160px; 
-    padding-bottom: 160px;
+    padding-top: 244px; 
+    padding-bottom: 76px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -113,8 +116,12 @@ h1 {
 .problem {
     background: #EEEEEE;
 }
+.anchor {
+    display: block;
+    padding-bottom: 84px;
+}
 h2 {
-    margin-top: 0px;
+    margin: 0px;
     padding-top: 48px;
     padding-bottom: 16px; 
 
@@ -132,6 +139,8 @@ h2 {
     padding: 0px 54px 92px 55px;
 }
 .text > p {
+    margin: 0px;
+
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -145,7 +154,7 @@ h2 {
     background-size: cover;
 }
 .phrase > p {
-    padding: 128px 163px 127px 163px;
+    padding: 128px 163px 43px 163px;
     margin-top: 0px;
     margin-bottom: 0px; 
 
@@ -158,3 +167,36 @@ h2 {
 
     color: #FFFFFF;
 } 
+.coin {
+    background: #FFFFFF;
+}
+.coin > h2 {
+    padding: 48px 54px 16px 55px;
+    margin-bottom: 0px;
+}
+.coin > img {
+    margin-left: 55px;
+    margin-right: 48px;
+    float: left;
+    width: 115px;
+    height: 115px;
+}
+.coin > p {
+    margin: 0px;
+    padding: 0px 71px 40px 48px;
+}
+.coin > div {
+    margin: 0px;
+    padding: 0px 54px 92px 55px;
+}
+.coin p {
+    margin: 0px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+
+    color: #000000;
+}
