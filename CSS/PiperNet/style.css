@@ -91,11 +91,70 @@
 }
 .intro {
     margin-top: 84px;
-    width: 1219;
-    height: 403px;
+    margin-bottom: 0px;
+    background: url(logo_background.png);
+    background-size: cover; 
 }
-.video{
+h1 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 160px; 
+    padding-bottom: 160px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
     
-    min-width:100%;
-    min-height:100%;
- }
+    color: #FFFFFF;
+}
+.problem {
+    background: #EEEEEE;
+}
+h2 {
+    margin-top: 0px;
+    padding-top: 48px;
+    padding-bottom: 16px; 
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+
+    text-align: center;
+
+    color: #007765;
+}
+.text {
+    padding: 0px 54px 92px 55px;
+}
+.text > p {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+
+    color: #000000;
+}
+.phrase {
+    background: url(phrase_background.png);
+    background-size: cover;
+}
+.phrase > p {
+    padding: 128px 163px 127px 163px;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+
+    color: #FFFFFF;
+} 
