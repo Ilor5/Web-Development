@@ -187,7 +187,7 @@ h2 {
 }
 .coin > div {
     margin: 0px;
-    padding: 0px 54px 92px 55px;
+    padding: 0px 54px 8px 55px;
 }
 .coin p {
     margin: 0px;
@@ -199,4 +199,57 @@ h2 {
     line-height: 37px;
 
     color: #000000;
+}
+.team {
+    background: #EEEEEE;
+}
+.name {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #007765;
+
+}
+.role {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+
+}
+figure img {
+    width: 168px;
+    height: 168px;
+}
+figure {
+    margin: 0px;
+}
+.rich {
+    float: left;
+    padding-left: 132px;
+    padding-top: 56px;
+}
+.din {
+    float: left;
+    padding-left: 191px;
+    padding-top: 56px;
+}
+.bert {
+    float: right;
+    padding-top: 56px;
+}
+.jar {
+    float: left;
+}
+.mon {
+    float: left;
+}
+.nel {
+    float: right;
 }
