@@ -201,6 +201,7 @@ h2 {
     color: #000000;
 }
 .team {
+    
     background: #EEEEEE;
 }
 .name {
@@ -209,6 +210,8 @@ h2 {
     font-weight: bold;
     font-size: 24px;
     line-height: 28px;
+
+    text-align: center;
 
     color: #007765;
 
@@ -220,6 +223,8 @@ h2 {
     font-size: 18px;
     line-height: 21px;
 
+    text-align: center;
+
     color: #000000;
 
 }
@@ -227,29 +232,13 @@ figure img {
     width: 168px;
     height: 168px;
 }
-figure {
-    margin: 0px;
+.column {
+    display: inline-block;
+    margin: 40px 3.392vw 82px 3.392vw
 }
-.rich {
-    float: left;
-    padding-left: 132px;
-    padding-top: 56px;
+.column figure {
+    margin-top: 0;
+    margin-bottom: 82px;
 }
-.din {
-    float: left;
-    padding-left: 191px;
-    padding-top: 56px;
-}
-.bert {
-    float: right;
-    padding-top: 56px;
-}
-.jar {
-    float: left;
-}
-.mon {
-    float: left;
-}
-.nel {
-    float: right;
-}
+
+
