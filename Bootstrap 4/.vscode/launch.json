@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/Deti/GitHub/Web%20Development/Bootstrap%204/index.html",
+            "url": "D:/Projects/Web-Development/Bootstrap 4/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]

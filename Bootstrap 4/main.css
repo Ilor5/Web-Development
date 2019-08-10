@@ -3,15 +3,33 @@ body {
   font-style: normal;
   font-weight: normal;
 }
-.jumbo {
-  margin-left: 0;
+.profile-card {
+  float: left;
 }
-.jumbo p {
-  margin: 0;
+.card-name {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
 }
-.jumbo .btn {
-  margin-top: 16px;
+.blue-name {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
 }
-.cards{
-    margin-left: 0;
+
+.my-footer {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  color: #6C757D;
+  background-color: #f5f5f5;
 }
+
